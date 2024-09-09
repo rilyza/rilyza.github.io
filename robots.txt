@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rilyza.github.io/tBP/sitemap.tBP.gz
